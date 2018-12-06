@@ -1,6 +1,9 @@
 # awesome-deeplearning
 
 Curated list of deeplearning resources
+
+## Datasets
+* [25 open datasets](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets)
  
 ## Computer Vision
 * [Medical image analysis with keras](https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/)
