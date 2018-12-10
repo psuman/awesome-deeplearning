@@ -14,5 +14,12 @@ Curated list of deeplearning resources
 * [Intel Opensources HE transformer](https://venturebeat.com/2018/12/03/intel-open-sources-he-transformer-a-tool-that-allows-ai-models-to-operate-on-encrypted-data/)
 
 # Natural Language Processing
+* [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec)
+* [Ultimate Guide to Understand & Implement Natural Language Processing (with codes in Python)](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python)
 
 # Recommendation Engines
+
+# General 
+* [Linear Regression in Python from scratch](https://medium.com/analytics-vidhya/linear-regression-in-python-from-scratch-24db98184276)
+* [Simple Guide to Logistic Regression in R](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r)
+* [AI 2019 8 trends to watch](https://enterprisersproject.com/article/2018/12/ai-trends-2019)
