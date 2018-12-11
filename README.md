@@ -19,6 +19,9 @@ Curated list of deeplearning resources
 
 # Recommendation Engines
 
+# Spark DeepLearning
+* [Built in image datasource in spark](https://databricks.com/blog/2018/12/10/introducing-built-in-image-data-source-in-apache-spark-2-4.html)
+
 # General 
 * [Linear Regression in Python from scratch](https://medium.com/analytics-vidhya/linear-regression-in-python-from-scratch-24db98184276)
 * [Simple Guide to Logistic Regression in R](https://www.analyticsvidhya.com/blog/2015/11/beginners-guide-on-logistic-regression-in-r)
