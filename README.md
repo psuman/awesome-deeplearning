@@ -19,6 +19,9 @@ Curated list of deeplearning resources
 
 # Recommendation Engines
 
+# Probabilistic Programming
+  [Introduction to probabilistic programming](https://medium.com/tensorflow/an-introduction-to-probabilistic-programming-now-available-in-tensorflow-probability-6dcc003ca29e)
+  
 # Spark DeepLearning
 * [Built in image datasource in spark](https://databricks.com/blog/2018/12/10/introducing-built-in-image-data-source-in-apache-spark-2-4.html)
 
